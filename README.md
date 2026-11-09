@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="Coonexa — Tecnologia • Web • Marketing" width="380">
+<img src="PROMPT_PROFISSIONAL_IDENTIDADE_VISUAL_DA_COONEXAjpg.jpg" alt="Coonexa — Tecnologia • Web • Marketing" width="380">
 
 ### Conectando negócios. Criando possibilidades.
 
