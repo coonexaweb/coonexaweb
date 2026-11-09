@@ -72,6 +72,6 @@ Quer um site que traga clientes para o seu negócio?
 
 ---
 
-Fundada por **Victor Hugo** · [Vittino Fly](https://vittinofly.netlify.app/)
+Fundada por **Victor Hugo** · [VittinoFly](github.com/vittinofly/)
 
 </div>
