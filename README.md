@@ -46,16 +46,6 @@ Desenvolvemos **landing pages, sites institucionais e páginas de venda** pensad
 
 ---
 
-## 💼 Projetos
-
-| Projeto | Segmento | Acesse |
-|---|---|---|
-| **Coonexa** | Site da empresa | [coonexa.netlify.app](https://coonexa.netlify.app/) |
-| **La Rose Eventos** | Decoração e eventos | [laroseeventos.netlify.app](https://laroseeventos.netlify.app/) |
-| **Vittino Fly** | Portfólio do fundador | [vittinofly.netlify.app](https://vittinofly.netlify.app/) |
-
----
-
 ## 🤝 Como trabalhamos
 
 `Conversa` → `Estrutura e textos` → `Design e código` → `Revisão` → `Site no ar`
