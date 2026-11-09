@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Troque pelo caminho do seu logo/banner, ex: ./assets/banner.png -->
-<!-- <img src="./assets/banner.png" alt="Coonexa" width="100%"> -->
+<img src="./assets/logo.png" alt="Coonexa — Tecnologia • Web • Marketing" width="380">
 
-# Coonexa
+### Conectando negócios. Criando possibilidades.
 
-### Sites e landing pages que transformam visitantes em clientes
+**Tecnologia • Web • Marketing**
 
-[![Site](https://img.shields.io/badge/🌐_coonexa.netlify.app-0A66C2?style=for-the-badge)](https://coonexa.netlify.app/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Vittino_Fly-111111?style=for-the-badge)](https://vittinofly.netlify.app/)
+[![Site](https://img.shields.io/badge/🌐_coonexa.netlify.app-1E6FD9?style=for-the-badge)](https://coonexa.netlify.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Vittino_Fly-14213D?style=for-the-badge)](https://vittinofly.netlify.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
 
 </div>
