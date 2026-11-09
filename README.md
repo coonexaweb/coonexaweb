@@ -1,49 +1,51 @@
-<!-- Banner em onda, no mesmo estilo do perfil Vittinofly -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a10000&height=120&section=header" width="100%"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E00000&center=true&vCenter=true&width=600&lines=Coonexa;Sites+que+viram+clientes;Landing+pages+de+alta+convers%C3%A3o" alt="Coonexa" />
+<!-- Troque pelo caminho do seu logo/banner, ex: ./assets/banner.png -->
+<!-- <img src="./assets/banner.png" alt="Coonexa" width="100%"> -->
+
+# Coonexa
+
+### Sites e landing pages que transformam visitantes em clientes
+
+[![Site](https://img.shields.io/badge/🌐_coonexa.netlify.app-0A66C2?style=for-the-badge)](https://coonexa.netlify.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Vittino_Fly-111111?style=for-the-badge)](https://vittinofly.netlify.app/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
 
 </div>
 
 ---
 
-## 🏢 Sobre a Coonexa
+## 👋 Quem somos
 
-- 🇧🇷 Goiás, Brasil · atendimento para todo o país
-- 🎯 Landing pages e sites focados em **gerar contato pelo WhatsApp**
-- 🤝 Projetos para negócios **B2B e B2C**: clínicas, escritórios, eventos, restaurantes, indústrias
-- 📍 SEO local e **Perfil da Empresa no Google**
-- 📱 Sites responsivos, rápidos e prontos para converter
+A **Coonexa** cria presença digital para empresas e profissionais que querem ser encontrados e receber contatos pela internet.
 
----
+Desenvolvemos **landing pages, sites institucionais e páginas de venda** pensados para um único objetivo: levar o visitante até o WhatsApp do cliente. Atendemos negócios **B2B e B2C** — clínicas, escritórios, consultorias, restaurantes, eventos, indústrias e prestadores de serviço.
 
-## 🚀 Serviços
-
-- **Landing pages de alta conversão** — página única, direta, com CTA claro
-- **Sites institucionais one-page** — credibilidade e presença profissional
-- **Otimização de sites** — mais velocidade, melhor no celular, mais contatos
-- **Google Meu Negócio** — para ser encontrado em buscas locais
+📍 Goiás, Brasil · atendimento para todo o país
 
 ---
 
-## 📱 Contato
+## 🚀 O que fazemos
 
-<div align="center">
-  <a href="https://coonexa.netlify.app/" target="_blank"><img src="https://skillicons.dev/icons?i=netlify" alt="Site" height="52"/></a>
-  <a href="https://wa.me/55SEUNUMERO" target="_blank"><img src="https://img.icons8.com/color/96/whatsapp--v1.png" alt="WhatsApp" height="52"/></a>
-  <a href="https://instagram.com/SEUINSTAGRAM" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="52"/></a>
-  <a href="https://linkedin.com/company/SEULINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="52"/></a>
-</div>
+- 🎯 **Landing pages de alta conversão** — páginas diretas, com copy persuasiva e CTA claro
+- 🏢 **Sites institucionais e one-page** — credibilidade para o seu negócio em uma página rápida
+- 📍 **SEO local e Perfil da Empresa no Google** — para aparecer quando buscam por você
+- 📱 **Design responsivo** — perfeito no celular, onde está a maioria dos clientes
+- ⚡ **Performance** — sites leves, rápidos e com HTTPS
 
 ---
 
 ## 🛠️ Tecnologias
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,netlify,git,github,vscode,figma&theme=dark" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Business-4285F4?style=flat-square&logo=google&logoColor=white" />
+</p>
 
 ---
 
@@ -57,20 +59,22 @@
 
 ---
 
-## 🔄 Como trabalhamos
-
-<div align="center">
+## 🤝 Como trabalhamos
 
 `Conversa` → `Estrutura e textos` → `Design e código` → `Revisão` → `Site no ar`
 
-</div>
-
 ---
+
+## 📬 Vamos conversar?
+
+Quer um site que traga clientes para o seu negócio?
+
+**[Fale com a Coonexa →](https://coonexa.netlify.app/)**
 
 <div align="center">
 
-Fundada por **Victor Hugo** · [@Vittinofly](https://github.com/Vittinofly)
+---
+
+Fundada por **Victor Hugo** · [Vittino Fly](https://vittinofly.netlify.app/)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a10000&height=100&section=footer" width="100%"/>
